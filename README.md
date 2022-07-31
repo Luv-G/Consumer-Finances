@@ -1,6 +1,6 @@
 # Consumer-Finances
 
-Segmentation, PCA, Web App
+###Segmentation, PCA, Web App, KMeans
 
 The data is downloaded from "https://www.federalreserve.gov/econres/scfindex.htm" . It is the survey of consumer finances. It has 351 columns. 
 The notebook explores some variables for people who are credit fearful. Then it segments all consumers based of 5 variables which have highest variances
